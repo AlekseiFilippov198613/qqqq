@@ -1,0 +1,23 @@
+body{
+  background-image: url(fon.jpg);
+  color: #040101;
+  font-size:16px;
+font-weight: normal;
+font-family: "Roboto" , sans-serif
+
+}
+h1 {color: aqua;} 
+
+.foto { width: 500px;
+  border-radius: 28px;
+
+}
+
+ 
+  
+
+
+.fon p {
+  color:#0f0e0e
+}
+   

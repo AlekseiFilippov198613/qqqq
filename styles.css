@@ -1,0 +1,30 @@
+body{
+    background-image: url(fon.jpg);
+    color: #040101;
+    font-size:16px;
+font-weight: normal;
+font-family: "Roboto" , sans-serif
+
+}
+h1{
+	height: 150px;
+     background-image: url(flag.jpg);
+    
+ 
+   
+  
+    
+}
+.english { display: block;
+    margin: 0 auto;
+    width: 1400px;
+    border-radius:28px;
+    box-shadow: 4px 4px 14px rgba(243, 11, 27, 0.99);
+   
+   
+    }
+
+
+.info p {
+    color:#0f0e0e
+}
